@@ -103,7 +103,6 @@ You can show your support via:
 > Check out **[ZeroLeaks](https://zeroleaks.io/)**, a service designed to help startups **identify and secure** leaks in system instructions, internal tools, and model configurations. **Get a free AI security audit** to ensure your AI is protected from vulnerabilities.
 
 *The company is mine, this is NOT a 3rd party AD.*
-
 ---
 
 ## 📊 Star History
