@@ -13,7 +13,6 @@ While other tools get stuck on prompts, [spawn.co](https://www.spawn.co/) uses c
 
 It’s not marketing fluff, it’s just a better way to build.
 
-**Build. Ship. Done.**
 
 ---
 
